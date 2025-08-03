@@ -20,7 +20,6 @@ Plant-Disease-Detection/
 └── requirements.txt         # Python dependencies
 ```
 
----
 
 ## 🚀 Features
 
