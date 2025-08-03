@@ -30,7 +30,7 @@ Plant-Disease-Detection/
 * Trained on a custom dataset of healthy and diseased plant leaves
 * Realtime prediction by uploading leaf images
 
----
+
 
 ## 🖼️ Supported Plant Diseases
 
