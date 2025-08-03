@@ -2,7 +2,7 @@
 
 This project leverages deep learning to classify plant leaf images and identify diseases with high accuracy. It uses TensorFlow/Keras to train a Convolutional Neural Network (CNN) on a labeled dataset of plant leaves, and provides a simple web interface using Flask for uploading and predicting plant disease in real-time.
 
----
+
 
 ## 📁 Project Structure
 
