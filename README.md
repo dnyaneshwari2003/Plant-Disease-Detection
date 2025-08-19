@@ -94,7 +94,7 @@ Then open your browser and go to:
 3. Click **Predict**.
 4. The app will classify the disease and display the result instantly.
 
----
+
 
 ## 📊 Training
 
