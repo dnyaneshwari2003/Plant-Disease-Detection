@@ -43,7 +43,7 @@ Example labels (depending on dataset):
 * Corn Common Rust
 * Healthy (no disease)
 
----
+
 
 ## 🧠 Model Summary
 
