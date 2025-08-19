@@ -52,7 +52,7 @@ Example labels (depending on dataset):
 * Trained using: Categorical Crossentropy Loss + Adam Optimizer
 * Accuracy: \~98% on validation data
 
----
+
 
 ## 🔧 Setup Instructions
 
